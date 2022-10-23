@@ -7,4 +7,7 @@ fun main() {
     val e = 9
     val f = 10
     println("g = " + (e*f).toString())
+    val h = 10
+    val i = 11
+    println("j = " + (h*i).toString())
 }
