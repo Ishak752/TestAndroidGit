@@ -10,4 +10,7 @@ fun main() {
     val h = 10
     val i = 11
     println("j = " + (h*i).toString())
+    val k = 20
+    val l = 21
+    println("m = " + (k*l).toString())
 }
